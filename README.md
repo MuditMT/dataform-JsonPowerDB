@@ -21,3 +21,10 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 * Any software application that needs backend DB.
 
 # Screenshots
+![image](https://user-images.githubusercontent.com/84302912/140256792-d2ae294d-a156-4d65-8825-8023b3508532.png)
+
+![image](https://user-images.githubusercontent.com/84302912/140256809-ea0bcfe2-d038-496e-bfda-54b30fbb403f.png)
+
+![image](https://user-images.githubusercontent.com/84302912/140256820-f3fb8e78-bf59-4c73-bb3c-bbc8d19e9547.png)
+
+
